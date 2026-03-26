@@ -26,13 +26,13 @@ This project was completed as part of the CSE0001 Digital Literacy course. It de
 (Screenshots added in folder)
 
 ### Task 3 – Platforms
-Google Form Link: (paste here)
+Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLScU29Ywb5UInz-lxFd1_vjEhKHUbNogb9UPxjFLTu91Hsjkxw/viewform?usp=publish-editor
 
 ### Task 4 – Email & Checklist
 (Available in folder)
 
 ### Task 5 – Cybercrime
-(Case study + checklist included)
+(Available in folder)
 
 ## Tools Used
 - Canva
