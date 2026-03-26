@@ -19,7 +19,8 @@ This project was completed as part of the CSE0001 Digital Literacy course. It de
 ## Task Links
 
 ### Task 1 – Infographic
-(Upload image and paste link here)
+<img width="1237" height="692" alt="digi lit task1" src="https://github.com/user-attachments/assets/9fb7cffe-ab7e-4a72-97a8-de5430fae312" />
+
 
 ### Task 2 – Portfolio
 (Screenshots added in folder)
